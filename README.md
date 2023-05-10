@@ -28,7 +28,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 <strong>Just My Socks适合哪些人使用？</strong>如果你只是为了翻墙看看YouTube、刷刷ins，使用ChatGPT plus或者谷歌，那么你完全不需要折腾VPS，自建ss，购买Just My Socks节点即可快速实现需求。
 
 
-<strong>Just My Socks 是否支持ChatGPT访问？</strong>目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。<a href="https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese">详情访问</a>
+<strong>Just My Socks 是否支持ChatGPT访问？</strong>目前JMS已经可以支持ChatGPT访问了，另外官方也经常对ChatGPT访问做优化。<a href="https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=15&language=chinese" target="_blank">详情访问</a>
 
 <h2 id="just2">二、Just My Socks节点购买</h2>
 
@@ -52,7 +52,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>500 GB / 月</td>
             <td>$5.88 / 月</td>
             <td>最多5个设备同时在线</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=2&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=2&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>洛杉矶线路 1000</td>
@@ -60,7 +60,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>1TB / 月</td>
             <td>$9.88 / 月</td>
             <td>不限制设备数量</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=3&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=3&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>洛杉矶线路 5000</td>
@@ -68,7 +68,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>5TB / 月</td>
             <td>$48.99 / 月</td>
             <td>不限制设备数量</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=4&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=4&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>英国伦敦线路 500</td>
@@ -76,7 +76,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>500 GB / 月</td>
             <td>$6.80 / 月</td>
             <td>最多5个设备同时在线</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=12&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=12&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>英国伦敦线路 1000</td>
@@ -84,7 +84,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>1TB / 月</td>
             <td>$11.29 / 月</td>
             <td>不限制设备数量</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=14&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=14&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>香港CMI+NTT方案 500</td>
@@ -92,7 +92,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>500 GB / 月</td>
             <td>$8.99 / 月</td>
             <td>最多5个设备同时在线</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=13&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=13&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>日本东京线路 100</td>
@@ -100,7 +100,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>100 GB / 月</td>
             <td>$29.99 / 月</td>
             <td>最多3个设备同时在线</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=5&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=5&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>日本东京线路 500</td>
@@ -108,7 +108,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>500 GB / 月</td>
             <td>$135.99 / 月</td>
             <td>最多5个设备同时在线</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=6&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=6&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>香港线路 100</td>
@@ -116,7 +116,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>100 GB / 月</td>
             <td>$34.99 / 月</td>
             <td>最多3个设备同时在线</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=7&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=7&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>香港线路 500</td>
@@ -124,7 +124,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>500 GB / 月</td>
             <td>$149.99 / 月</td>
             <td>最多5个设备同时在线</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=8&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=8&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>香港线路 1000</td>
@@ -132,7 +132,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>1000 GB / 月</td>
             <td>$279.99 / 月</td>
             <td>不限制设备数量</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=11&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=11&language=chinese">立即购买</a></td>
         </tr>
         <tr>
             <td>香港 IPLC 线路 100</td>
@@ -140,7 +140,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
             <td>100 GB / 月</td>
             <td>$15.00 / 月</td>
             <td>最多3个设备同时在线(** 只适用 OPENVPN **)</td>
-            <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&pid=17&language=chinese">立即购买</a></td>
+            <td><a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&pid=17&language=chinese">立即购买</a></td>
         </tr>
     </tbody>
 </table>
@@ -150,8 +150,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks/V2ray代理
 
 选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击Continue继续：
 
-Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&language=chinese">Just My Socks 官网</a>
-
+Just My Socks 官网：<a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&language=chinese">Just My Socks 官网</a>
 
 <a href="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-1.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-1.png" alt="Just My Socks 购买教程，若图片无法显示请点击查看" /></a>
 
@@ -171,7 +170,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 
 <h2 id="just5">五、Just My Socks信息查看</h2>
 
-完成Just My Socks购买后，登陆<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=59&language=chinese">Just My Socks 官网</a>，选择Services->My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
+完成Just My Socks购买后，登陆<a target="_blank" href="https://justmysocks3.net/members/aff.php?aff=59&language=chinese">Just My Socks 官网</a>，选择Services->My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
 
 <a href="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-4.png" alt="Just My Socks 我的服务，若图片无法显示请点击查看" /></a>
 
@@ -182,7 +181,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 
 <h2 id="just6">六、Just My Socks怎么用？</h2>
 
-有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：Just My Socks不支持SSR，不要使用SSR客户端，请使用下图中的<a rel="nofollow" href="https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
+有了Shadowsocks/V2ray账号后，接下来怎么用？剩下的只需要下载安装Shadowsocks/V2ray客户端（***注意：Just My Socks不支持SSR，不要使用SSR客户端，请使用下图中的<a target="_blank" href="https://justmysocks3.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html">Just My Socks 官网</a>的下载链接下载客户端***），然后将购买的服务器导入客户端即可使用啦。
 
 <b>第1～5条线路介绍</b>
 
@@ -210,8 +209,8 @@ Freedom服务器可以提供更多的数据传输，具体取决于当前的乘�
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dccn.jpg" alt="SS客户端下载，若图片无法显示请点击查看" />
 <img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/dcen.jpg" alt="SS client download，若图片无法显示请点击查看" />
 
-<strong>注意：如果购买后试用不满意，可申请退款：</strong><a href="jms-refund.md" rel="nofollow">Just My Socks 怎么退款（退款条件）</a>
+<strong>注意：如果购买后试用不满意，可申请退款：</strong><a href="jms-refund.md" target="_blank">Just My Socks 怎么退款（退款条件）</a>
 
-<strong>更多内容可以访问</strong><a href="https://justmysocksl.net/cn">JustMySocks中文站</a>
+<strong>更多内容可以访问</strong><a href="https://justmysocksl.net/cn" target="_blank">JustMySocks中文站</a>
 
 <strong>免责声明：</strong>我们推荐的任何产品和服务已努力确保可靠持久，但我们不为此承担任何责任。本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！
