@@ -156,9 +156,9 @@ Just My Socks 官网：<a target="_blank" href="https://justmysocks3.net/members
 
 <h2 id="just3">三、Just My Socks优惠码</h2>
 
-在购买Just My Socks时，我们可以使用Just My Socks优惠码：<strong>JMS9272283</strong>获取5.2%循环优惠，输入优惠码后点击Validate Code即可使用优惠码，点击Checkout付款：
+在购买Just My Socks节点订阅时，我们可以使用Just My Socks优惠码：<strong>JMS9272283</strong>，获取5.2%循环优惠，输入优惠码后点击 Validate Code 即可使用优惠码，点击 Checkout 付款：
 
-<a href="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-2.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://rawcdn.githack.com/killgcd/justmysocks/1b37c68c634059695a5ceb046563d13a84766b23/images/jms-2.png" alt="Just My Socks优惠码，若图片无法显示请点击查看" /></a>
+<a href="https://justmysocks3.net/members/aff.php?aff=59&language=chinese" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="images/jms_coupon_uxtt_20230515_214043.png" alt="Just My Socks优惠码" /></a>
 
 <h2 id="just4">四、Just My Socks注册</h2>
 
